@@ -7,3 +7,5 @@ Consolidation of my aws certification notes (AWS Solutions Architect Associate)
 - Endpoints are used in AWS for caching content. Typically consists of Cloudfront, Amazon CDN
 
 
+## Identity Access Management (IAM)
+- 
